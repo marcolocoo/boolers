@@ -1,0 +1,62 @@
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+    font-family: "DM Sans", sans-serif;
+}
+#sfondo {
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 50px;
+    padding: 5%;
+    border-radius: 1%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 100;
+}
+h1 {
+    text-align: center;
+    color: rgb(22, 219, 22) ;
+}
+.nav { 
+    background-color: rgb(22, 219, 22);
+    text-align: center;
+    padding: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+main div {
+    text-align: left;
+    margin-left: 5%;
+    margin-top: 15px;
+    color: white;
+}
+div h2{
+    display: inline;
+}
+.carica-gialla {
+    display: block;
+    height: 25px;
+    width: 250px;
+    background-color: rgb(255, 195, 43);
+    border-radius: 5px;
+}
+.carica-verde {
+    display: block;
+    height: 25px;
+    width: 500px;
+    background-color: rgb(26, 148, 19);
+    border-radius: 5px;
+}
+.carica-rossa {
+    display: block;
+    height: 25px;
+    width: 100px;
+    background-color: rgb(219, 25, 25);
+    border-radius: 5px;
+}
